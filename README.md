@@ -28,17 +28,17 @@ LOADING neil_joseph.ai KERNEL
 > Oratis.exe  
 ##### DESCRIPTION: Online mock interview with a 3D AI interviewer avatar.  
 ##### STACK: NLP, Computer Vision, API, Python  
-##### URL: github.com/YourUsername/Oratis-Repo  
+##### URL: github.com/Ronin-117/Oratis-Repo  
 
 > GrindSensAI.exe  
 ##### DESCRIPTION: AI-based physical training guide with progress tracking.  
 ##### STACK: Django, React.js, Mediapipe, Computer Vision  
-##### URL: github.com/YourUsername/GrindSensAI-Repo  
+##### URL: github.com/Ronin-117/GrindSensAI-Repo  
 
 > RAG_Assistant.exe  
 ##### DESCRIPTION: Custom AI assistant using Retrieval-Augmented Generation.  
 ##### STACK: NLP, Python, LangChain  
-##### URL: github.com/YourUsername/Your-RAG-Repo  
+##### URL: github.com/Ronin-117/Your-RAG-Repo  
 
 [SYSTEM_LOGS]: ACHIEVEMENTS & CERTIFICATIONS  
 
