@@ -7,7 +7,6 @@
 ╚═╝  ╚═══╝╚══════╝╚═╝╚══════╝     ╚════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
 ```                                                                             
 
-
 -----------------------------------------------------------------  
 [USER]: Neil Joseph  
 [STATUS]: Computer Science Undergraduate  
@@ -17,15 +16,12 @@
 [LOADED_MODULES]: SKILLS  
 
 > PROGRAMMING: Python, C++, Java, HTML, JavaScript  
-> AI/ML_FRAMEWORKS: TensorFlow, PyTorch  
+> AI/ML_FRAMEWORKS: TensorFlow, PyTorch
+> FRONTEND FRAMEWORKS: React js
+> BACKEND FRAMEWORK: Django
 > NLP_TOOLS: LangChain, LangGraph, CrewAI  
 > COMPUTER_VISION: OpenCV, MediaPipe, Vision Transformers (ViT)  
 > OTHER: Unity, C#, AR/VR, 3D Modeling  
-
-[HIGHLIGHTS]:  
-- Top 10 in IBM watsonx Challenge  
-- Published at ICMRE 2025: *AI Guide to Ace Interviews*  
-- AWS AI Cloud Practitioner | IBM Watsonx Certified  
 
 [CONNECT]:  
 📧 neiljoseph0117@gmail.com  
